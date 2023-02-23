@@ -6,7 +6,7 @@
   display: grid;
   grid-template-columns: 3fr 5fr 4fr;
   gap: 40px;
-  paddin-top: 60px;
+  padding-top: 60px;
   padding-bottom: 60px;
 }
 
@@ -23,7 +23,7 @@
   display: block;
   max-width: 360px;
   height: 2px;
-  background: var(--cor-9);
+  background: var(--cor-11);
 }
 
 .footer li {
