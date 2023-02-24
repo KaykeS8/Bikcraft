@@ -11,9 +11,6 @@
 /* HOME */
 @import url("./home/introducao.css");
 
-/* BICICLETAS */
-@import url("./bicicletas/bicicletas-lista.css");
-
 /* TECNOLOGIA */
 @import url("./home/tecnologia.css");
 
@@ -25,6 +22,15 @@
 
 /* SEGUROS */
 @import url("./seguros/seguros.css");
+@import url("./seguros/vantagens.css");
+@import url("./seguros/perguntas.css");
 
 /* TERMOS */
 @import url("./termos/termos.css");
+
+/* BICICLETA */
+@import url("./bicicleta/bicicleta.css");
+
+/* BICICLETAS */
+@import url("./bicicletas/bicicletas-lista.css");
+@import url("./bicicletas/bicicletas.css");
