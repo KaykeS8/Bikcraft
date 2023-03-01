@@ -7,6 +7,7 @@
 
 /* UTILITARIOS */
 @import url("./utilitarios/componentes.css");
+@import url("./utilitarios/formulario.css");
 
 /* HOME */
 @import url("./home/introducao.css");
@@ -30,7 +31,12 @@
 
 /* BICICLETA */
 @import url("./bicicleta/bicicleta.css");
+@import url("./bicicleta/seguro.css");
 
 /* BICICLETAS */
 @import url("./bicicletas/bicicletas-lista.css");
 @import url("./bicicletas/bicicletas.css");
+
+/* CONTATO */
+@import url("./contato/contato.css");
+@import url("./contato/loja.css");
