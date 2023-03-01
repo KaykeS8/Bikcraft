@@ -40,3 +40,6 @@
 /* CONTATO */
 @import url("./contato/contato.css");
 @import url("./contato/loja.css");
+
+/* ORÇAMENTO */
+@import url("./orcamento/orcamento.css");
