@@ -16,11 +16,13 @@
 }
 
 .seguro-conteudo {
-  padding-top: 180px;
+  padding-top: 120px;
+  padding-bottom: 180px;
 }
 
 .seguro h2 {
   margin-bottom: 32px;
+  padding-top: 60px;
 }
 
 .seguro p {

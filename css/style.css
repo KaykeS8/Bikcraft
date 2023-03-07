@@ -1,6 +1,7 @@
 @import url("./global/global.css");
 @import url("./utilitarios/tipografia.css");
 @import url("./utilitarios/cores.css");
+@import url("./utilitarios/animacao.css");
 
 @import url("./global/header.css");
 @import url("./global/footer.css");
